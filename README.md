@@ -1,5 +1,9 @@
 # 5-os-lotto
 
-5-ös lottó adatainak feldolgozása
+5-ös lottó adatainak megjelenítése html táblázatban
 
-![](eredmeny.png)
+![](tablazat.png)
+
+![](3d_barchart.png)
+
+![](3d_kordiagram.png)
